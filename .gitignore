@@ -1,0 +1,11 @@
+# Environment (.env) Files
+.env
+
+# Comma-separated values
+*.csv
+
+# Log file
+*.log
+
+# Backup
+*.bak
