@@ -1,0 +1,2 @@
+env=.env.example
+modules=deployer.list.example
